@@ -1,3 +1,8 @@
-// This is my first JavaScript code!
-let name = 'Paul';
-console.log(name);
+// My First JavaScript Code
+  let person = {
+    name: 'Paul',
+    age: 30
+
+
+
+  };
