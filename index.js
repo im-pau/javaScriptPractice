@@ -1,2 +1,3 @@
 // This is my first JavaScript code!
-console.log('Hello Word');
+let name = 'Paul';
+console.log(name);
